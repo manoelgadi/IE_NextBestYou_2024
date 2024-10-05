@@ -13,7 +13,6 @@ This repository is designed to provide attendees with access to the presentation
 - **Supplementary Materials**: Additional resources and reading materials to further your understanding.
   - `03_IST010028-U-ENG-WOD.pdf`
   - `03_Steel Coal Corp Framework 2022.xlsx`
-- **Q&A Summary**: A summary of the questions and answers discussed during the session.
 
 ## How to Use This Repository
 
