@@ -1,4 +1,3 @@
-```markdown
 # Next Best You LaunchPad Event - Master Class
 
 Welcome to the GitHub repository for the Master Class presented at the **Next Best You LaunchPad Event** on October 5th, 2024. This repository contains all the materials and resources used during the session.
@@ -29,7 +28,3 @@ For any questions or further information, please feel free to reach out to Prof.
 ---
 
 Thank you for participating in the Next Best You LaunchPad Event. We hope you find these resources valuable and inspiring for your future endeavors.
-
-```
-
-I've added your email address. If there's anything else you'd like to modify or add, just let me know!
